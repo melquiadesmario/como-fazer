@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Melquíades Mário Lira Rosa",
+  "author": "Melquíades Mário",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
